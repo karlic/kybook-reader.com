@@ -1,0 +1,24 @@
+---
+layout: main_post
+title: How to add multiple books to KyBook 3 from Dropbox
+media:
+---
+<div>
+<h1>How do I add multiple books to KyBook 3 from Dropbox?</h1>
+<h2>Please note: File Browser is scheduled to be removed in a future release</h2>
+
+<ol>
+<li> Select the plus icon in the red circle.
+<li> Select <code>File Browser</code>. A new icon is created called 'File Browser'.
+<li> Select (the new) <code>File Browser</code>.
+<li> Under 'Available Cloud Storage', select <code>Dropbox</code>. Select <code>Dropbox app</code> when prompted and authorise KyBook3.
+<li> <code>Dropbox</code> should move to 'Current File Storages'.
+<li> Select <code>Dropbox</code> and navigate to the folder with your books.
+<li> Select the tick icon at the top right of the screen.
+<li> Select <code>Select All</code> from the bottom left of the screen.
+<li> Select <code>Move</code> from the bottom middle of the screen (you can change this to 'Copy' later).
+<li> Select 'iPad' from 'Current File Storages'.
+<li> If you wish to copy rather than move your books, select '(Tap to switch Move/Copy)'.
+<li> Select <code>Select Folder</code> (even if there aren't any folders to select). 'File Transfer' should begin.
+</ol>
+</div>
